@@ -104,7 +104,11 @@ function getWeatherIconClass(description) {
         'snow': 'wi-snow',
         'mist': 'wi-fog',
         'overcast clouds': 'wi-day-cloudy',
-        'light rain': 'wi-hail'
+        'light rain': 'wi-hail',
+        'moderate rain': 'wi-hail',
+        'heavy intensity rain': 'wi-rain',
+        'haze': 'wi-day-haze',
+        'fog': 'wi-day-fog'
         // Add more mappings as needed
     };
 
